@@ -96,3 +96,10 @@ Payload (STREAM Frame):
 QUIC’s design is a masterclass in combining speed, security, and efficiency. By examining the structure of QUIC packets and understanding how common HTTP/3 requests like POST are encapsulated and transmitted, we gain valuable insights into the mechanics that make QUIC a game-changer in the world of internet protocols.
 
 Now that we understand this better, our next good steps would be to fuzz this protocol and explore what's in store for us. Something we could explore in our next blog!
+
+
+References:
+https://dl.acm.org/doi/pdf/10.1145/3098822.3098842
+https://www.f5.com/glossary/quic-http3
+https://datatracker.ietf.org/doc/html/rfc9000
+
